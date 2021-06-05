@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kotobuki562&theme=onedark)](https://github.com/kotobuki562/plgn-foods)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotobuki562&theme=onedark)](https://github.com/kotobuki562/git-stars-query)
 
 
 Here are some ideas to get you started:
