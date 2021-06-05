@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**kotobuki562/kotobuki562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotobuki562&theme=onedark)](https://github.com/kotobuki562/plgn-foods)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
